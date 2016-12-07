@@ -17,9 +17,12 @@ h1 {
 h2 {
     color: white;
 }
+p {
+  color: white;
+}
 
 ul {
-
+  text-align: left;
   list-style-position: inside;
     background: #3399ff;
     padding: 20px;
