@@ -19,6 +19,8 @@ h2 {
 }
 p {
   color: black;
+    background: #E1F5FE;
+    padding: 20px;
 }
 
 ul {
