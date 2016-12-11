@@ -3,6 +3,8 @@ body{
 }
 body {
   text-align: center;
+  background: #E1F5FE;
+  padding: 20px;
  }
 
 #page-wrap {
@@ -19,8 +21,7 @@ h2 {
 }
 p {
   color: black;
-    background: #E1F5FE;
-    padding: 20px;
+
 }
 
 ul {
