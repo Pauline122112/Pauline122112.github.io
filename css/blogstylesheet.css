@@ -1,9 +1,4 @@
-<style>
-  .button.button-primary, button.button-primary, input [type="submit"].button-primary, input [type="reset"].button-primary, input [type="button"].button-primary {
-    color: #fff;
-    background-color: #33C3F0;
-    border-color: #33C3F0;
-}
+
 body{
     background-color: teal;
 }
@@ -36,6 +31,7 @@ p {
   color: black;
 
 }
+
 
 ul {
   text-align: left;
